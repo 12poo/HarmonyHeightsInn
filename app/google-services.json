@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741374295372",
+    "project_id": "harmonyheights-211da",
+    "storage_bucket": "harmonyheights-211da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741374295372:android:71612027108ed2a7ada3e9",
+        "android_client_info": {
+          "package_name": "com.example.harmonyheightsinn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0XESj2jkFEJDt24aolvU0DO3tXW-2zGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

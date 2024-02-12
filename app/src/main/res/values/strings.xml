@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HarmonyHeightsInn</string>
+    <string name="signup_login_btn">Signup/Login</string>
+    <string name="signup_title">SignUp</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="admin_label">Admin</string>
+    <string name="already_have_an_account">Already have an  account?</string>
+    <string name="signup_btn">SignUp</string>
+    <string name="login_title">LogIn</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="login_btn">LogIn</string>
+    <string name="signout">Signout</string>
+</resources>
